@@ -1,0 +1,47 @@
+.grid1{
+	width: 95px;
+	
+}
+
+.grid2{
+	width: 185px;
+	
+}
+
+.grid3{
+	width: 280px;
+	
+}
+
+.grid4{
+	width: 375px;
+	
+}
+
+.grid5{
+	width: 470px;
+	
+}
+
+.grid6{
+	width: 565px;
+	
+}
+
+.grid9{
+	width: 850px;
+	
+}
+
+.grid1,.grid2,.grid3,.grid4,.grid5,.grid6,.grid9{
+	float: left;
+	display: inline;
+	margin-left: 5px;
+	
+}
+
+.first{
+	clear: left;
+	margin-right: 0;
+	background: #317AD9;
+}
