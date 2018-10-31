@@ -1,3 +1,10 @@
+#contents{
+	width: 1140px;
+	margin: 0 auto;
+	margin-top: 100px;
+	
+}
+
 .grid1{
 	width: 90px;
 	
@@ -11,7 +18,7 @@
 .grid3{
 	width: 280px;
 	height: 220px;
-	border-bottom: 3px solid #000;
+	border: 1px solid #b5c8e1;
 	
 }
 
@@ -42,17 +49,22 @@
 	
 }
 
-#first{
-	clear: left;
-	margin-right: 0;
+#side_menu{
 	background-color: #317AD9;
 	height: 1000px;
 	
 }
 
-.second{
-	/*background-color: #450607;*/
-	height: 1000px;
+.first{
+	clear: left;
+	margin-left: 0;	
+	
+}
+
+
+#infoPan{
+	/*background-color: #450607;
+	/*height: 1000px;*/
 	
 }
 
