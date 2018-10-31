@@ -1,5 +1,5 @@
 .grid1{
-	width: 95px;
+	width: 90px;
 	
 }
 
@@ -10,6 +10,8 @@
 
 .grid3{
 	width: 280px;
+	height: 220px;
+	border-bottom: 3px solid #000;
 	
 }
 
@@ -40,8 +42,17 @@
 	
 }
 
-.first{
+#first{
 	clear: left;
 	margin-right: 0;
-	background: #317AD9;
+	background-color: #317AD9;
+	height: 1000px;
+	
 }
+
+.second{
+	/*background-color: #450607;*/
+	height: 1000px;
+	
+}
+
